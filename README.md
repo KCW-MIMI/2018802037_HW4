@@ -15,4 +15,3 @@
 - branch_pr_2021706161: collaborator practice
 
 ------------------------------
-대.광.운
